@@ -1,0 +1,2 @@
+lambda need the permission for acees AWS IoT Core full access.
+HTTP based rest api created and routed in to the AWS lambda.
